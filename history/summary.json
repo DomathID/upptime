@@ -76,17 +76,17 @@
     "url": "https://nekoybot.domathid.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/nekoybot.domathid.repl.co.ico",
     "slug": "discord",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 312,
-    "timeDay": 312,
-    "timeWeek": 312,
-    "timeMonth": 312,
-    "timeYear": 312,
+    "time": 372,
+    "timeDay": 372,
+    "timeWeek": 372,
+    "timeMonth": 372,
+    "timeYear": 372,
     "dailyMinutesDown": {}
   }
 ]
