@@ -76,17 +76,17 @@
     "url": "https://activate-developer-badge-discord.domathid.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/activate-developer-badge-discord.domathid.repl.co.ico",
     "slug": "discord",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2230,
-    "timeDay": 1226,
-    "timeWeek": 2230,
-    "timeMonth": 2230,
-    "timeYear": 2230,
+    "time": 2274,
+    "timeDay": 1597,
+    "timeWeek": 2274,
+    "timeMonth": 2274,
+    "timeYear": 2274,
     "dailyMinutesDown": {}
   }
 ]
