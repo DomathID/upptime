@@ -94,17 +94,17 @@
     "url": "https://nekobot-update.domathid.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/nekobot-update.domathid.repl.co.ico",
     "slug": "websku",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1167,
-    "timeDay": 2017,
-    "timeWeek": 1167,
-    "timeMonth": 1167,
-    "timeYear": 1167,
+    "time": 1996,
+    "timeDay": 3254,
+    "timeWeek": 1996,
+    "timeMonth": 1996,
+    "timeYear": 1996,
     "dailyMinutesDown": {}
   }
 ]
