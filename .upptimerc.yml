@@ -14,7 +14,7 @@ sites:
   - name: Discord
     url: https://activate-developer-badge-discord.domathid.repl.co/
   - name: websku
-    url: https://nekobot-update.domathid.repl.co/
+    url: https://bba.domathid.repl.co/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
