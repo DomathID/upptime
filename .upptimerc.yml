@@ -13,7 +13,7 @@ sites:
     url: https://thissitedoesnotexist.koj.co
   - name: Discord
     url: https://activate-developer-badge-discord.domathid.repl.co/
-  - name: websku
+  - name: Discord
     url: https://bba.domathid.repl.co/
 
 status-website:
