@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 80,
-    "timeWeek": 78,
-    "timeMonth": 87,
-    "timeYear": 101,
+    "timeDay": 71,
+    "timeWeek": 76,
+    "timeMonth": 86,
+    "timeYear": 100,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 32,
-    "timeWeek": 246,
-    "timeMonth": 250,
+    "timeDay": 98,
+    "timeWeek": 236,
+    "timeMonth": 247,
     "timeYear": 216,
     "dailyMinutesDown": {}
   },
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 311,
-    "timeDay": 107,
-    "timeWeek": 262,
-    "timeMonth": 323,
-    "timeYear": 309,
+    "timeDay": 281,
+    "timeWeek": 286,
+    "timeMonth": 326,
+    "timeYear": 310,
     "dailyMinutesDown": {}
   },
   {
@@ -73,7 +73,7 @@
   },
   {
     "name": "Discord",
-    "url": "https://activate-developer-badge-discord.domathid.repl.co/",
+    "url": "https://activate-developer-badge-discord.domathid.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/activate-developer-badge-discord.domathid.repl.co.ico",
     "slug": "discord",
     "status": "up",
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2591,
-    "timeDay": 746,
-    "timeWeek": 3179,
-    "timeMonth": 2591,
-    "timeYear": 2591,
+    "time": 2558,
+    "timeDay": 643,
+    "timeWeek": 3117,
+    "timeMonth": 2558,
+    "timeYear": 2558,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2591,
-    "timeDay": 746,
-    "timeWeek": 3179,
-    "timeMonth": 2591,
-    "timeYear": 2591,
+    "time": 2558,
+    "timeDay": 643,
+    "timeWeek": 3117,
+    "timeMonth": 2558,
+    "timeYear": 2558,
     "dailyMinutesDown": {}
   }
 ]
