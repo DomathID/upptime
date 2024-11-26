@@ -13,7 +13,7 @@
     "time": 119,
     "timeDay": 89,
     "timeWeek": 102,
-    "timeMonth": 95,
+    "timeMonth": 96,
     "timeYear": 105,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 273,
     "timeDay": 251,
     "timeWeek": 172,
-    "timeMonth": 202,
+    "timeMonth": 203,
     "timeYear": 281,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 315,
     "timeDay": 371,
     "timeWeek": 274,
-    "timeMonth": 302,
+    "timeMonth": 296,
     "timeYear": 322,
     "dailyMinutesDown": {}
   },
@@ -76,7 +76,7 @@
     "url": "https://activate-developer-badge-discord.domathid.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/activate-developer-badge-discord.domathid.repl.co.ico",
     "slug": "discord",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -86,7 +86,7 @@
     "timeDay": 747,
     "timeWeek": 775,
     "timeMonth": 739,
-    "timeYear": 4326,
+    "timeYear": 4325,
     "dailyMinutesDown": {}
   },
   {
@@ -94,7 +94,7 @@
     "url": "https://bba.domathid.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/bba.domathid.repl.co.ico",
     "slug": "discord",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -104,7 +104,7 @@
     "timeDay": 747,
     "timeWeek": 775,
     "timeMonth": 739,
-    "timeYear": 4326,
+    "timeYear": 4325,
     "dailyMinutesDown": {}
   }
 ]
